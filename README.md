@@ -33,27 +33,23 @@
 ### Frameworks / Libraries
 ![Django](https://img.shields.io/badge/Django-272b33?&logo=django&logoColor=green)
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb)
-![PostgreSQL](https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=1d9bf0)
 ![React Native](https://img.shields.io/badge/React_Native-272b33?&logo=react&logoColor=61DAFB)
 
-### Tools
-![Git](https://img.shields.io/badge/git-272b33?logo=git&logoColor=F05032)
-![JSON](https://img.shields.io/badge/JSON-272b33?logo=JSON&logoColor=lightgrey)
-![Postman](https://img.shields.io/badge/postman-272b33?logo=postman&logoColor=f76935)
-![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=0078d4)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-272b33?logo=postgresql&logoColor=1d9bf0)
+![MySQL](https://img.shields.io/badge/mysql-272b33.svg?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-272b33.svg?logo=sqlite&logoColor=white)
+
+### UI / Graphics
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-272b33?&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-272b33?&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-272b33?&logo=figma&logoColor=white)
 
-<!--
-Here are some ideas to get you started:
+### Tools / Editors
+![Git](https://img.shields.io/badge/git-272b33?logo=git&logoColor=F05032)
+![JSON](https://img.shields.io/badge/JSON-272b33?logo=JSON&logoColor=lightgrey)
+![Postman](https://img.shields.io/badge/postman-272b33?logo=postman&logoColor=f76935)
+![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=0078d4)
+![Atom](https://img.shields.io/badge/Atom-272b33?logo=atom&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-272b33?logo=Xcode&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
