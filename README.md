@@ -12,10 +12,10 @@
 <a target="_blank" href="https://www.linkedin.com/in/pvanfas/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white">
 </a> 
-<a target="_blank" href="https://www.facebook.com/in/pvanfas/">
+<a target="_blank" href="https://www.facebook.com/pvanfas/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white">
 </a>
-<a target="_blank" href="https://www.instagram.com/in/pvanfas/">
+<a target="_blank" href="https://www.instagram.com/pvanfas/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white">
 </a>
 
