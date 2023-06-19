@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-<p>Interested in building impactful web applications. Comfortable embracing new challenges, unforeseen responsibilities, and managing multiple projects as team priorities realign. Built and implemented successful front and back-end web applications that have become critical tools for clients and teams.</p>
+<p>Passionate about crafting transformative web applications that leave a lasting impact. Fearlessly diving into uncharted territories, I eagerly take on unforeseen responsibilities and skillfully manage a bustling hive of projects, adeptly adapting to shifting team priorities. My ingenious creations, blending seamless front-end marvels with robust back-end wizardry, have evolved into indispensable tools that empower clients and revolutionize the way teams collaborate. Let's embark on a thrilling journey together as we redefine the digital landscape, one line of code at a time.</p>
 
 * **Role**: Software Engineer
 * **Location**: Calicut, Kerala
