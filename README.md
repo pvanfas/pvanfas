@@ -6,12 +6,12 @@
 * **Location**: Calicut, Kerala
 
 #### Connect With Me
-<a href="https://twitter.com/pvanfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvanfas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pvanfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pvanfas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12395807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12395807" height="30" width="40" /></a>
-<a href="https://fb.com/pvanfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pvanfas" height="30" width="40" /></a>
-<a href="https://instagram.com/pvanfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvanfas" height="30" width="40" /></a>
-<a href="https://medium.com/@pvanfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pvanfas" height="30" width="40" /></a>
+<a href="https://twitter.com/pvanfas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvanfas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pvanfas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pvanfas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12395807" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12395807" height="30" width="40" /></a>
+<a href="https://fb.com/pvanfas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pvanfas" height="30" width="40" /></a>
+<a href="https://instagram.com/pvanfas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvanfas" height="30" width="40" /></a>
+<a href="https://medium.com/@pvanfas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pvanfas" height="30" width="40" /></a>
 
 #### Technologies
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -44,4 +44,8 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 #### Support
-<a href="https://www.buymeacoffee.com/pvanfas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pvanfas" /></a>
+<p><a href="https://www.buymeacoffee.com/pvanfas" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pvanfas" /></a></p> <br><br>
+
+
+#### Contributions
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvanfas&" alt="pvanfas" />
