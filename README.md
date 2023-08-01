@@ -45,3 +45,5 @@
 
 #### Contributions
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvanfas&" alt="pvanfas" />
+
+<img src="https://visitcount.itsvg.in/api?id=pvanfas&label=Likes&color=12&icon=4&pretty=false" />
