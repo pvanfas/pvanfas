@@ -70,11 +70,7 @@ I listen more than I speak. I've been broken, rebuilt, and made better — not b
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvanfas&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvanfas&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvanfas&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
